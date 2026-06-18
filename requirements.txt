@@ -1,0 +1,13 @@
+openai==1.56.1
+einops
+datasets
+jaxtyping
+sae-lens>=4.0.0,<5.0.0
+tabulate
+umap-learn
+hdbscan
+eindex-callum
+git+ssh://git@github.com/callummcdougall/CircuitsVis.git#subdirectory=python
+git+ssh://git@github.com/callummcdougall/sae_vis.git@callum/v3
+transformer_lens==2.11.0
+datasets
